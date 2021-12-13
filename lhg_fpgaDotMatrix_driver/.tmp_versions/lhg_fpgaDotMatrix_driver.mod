@@ -1,0 +1,2 @@
+/cygdrive/c/AndroXStudio/workspace/lhg_fpgaDotMatrix_driver/lhg_fpgaDotMatrix_driver.ko
+/cygdrive/c/AndroXStudio/workspace/lhg_fpgaDotMatrix_driver/lhg_fpgaDotMatrix_driver.o
