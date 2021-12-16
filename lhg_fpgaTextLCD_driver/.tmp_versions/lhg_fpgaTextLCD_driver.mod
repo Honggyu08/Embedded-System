@@ -1,0 +1,2 @@
+/cygdrive/c/AndroXStudio/workspace/lhg_fpgaTextLCD_driver/lhg_fpgaTextLCD_driver.ko
+/cygdrive/c/AndroXStudio/workspace/lhg_fpgaTextLCD_driver/lhg_fpgaTextLCD_driver.o
